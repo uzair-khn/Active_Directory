@@ -18,7 +18,8 @@ I would like to inform you that our homelab will be undergoing a division into f
   -  This is for Windows Server 2019, all the things by defualt. Just change : <br/>
         Version to : Other Windows 64 bit, <br/>
         Network to : Add another adopter with defualt and change to internal network, & <br/>
-        Choose Windows 10 standard (User Desktop Experience) & Custom Setting, when installing it.
+        Choose Windows 10 standard (User Desktop Experience) & Custom Setting, when installing it. <br/>
+        ***Its time for a coffee break ☕️***
         
   
   
