@@ -6,7 +6,7 @@ Active Directory is a directory service developed by Microsoft for managing and 
 
 ## Lab Structure
 
-<img src="https://github.com/uzair-khn/Active_Directory/blob/main/p3.PNG" width="1000px" height="300px">
+<img src="https://github.com/uzair-khn/Active_Directory/blob/main/p3.PNG" width="1000px" height="350px">
 
 
 I would like to inform you that our homelab will be undergoing a division into four distinct steps.
