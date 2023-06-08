@@ -37,5 +37,5 @@ I would like to inform you that our homelab will be undergoing a division into f
     
     Now change the Server name to your choice but remember it. <br/> Path will be Settings -> About -> Rename this PC
 - Now, its time to add services on the Windows Server. 🔥
-  - First,   
+  Central/ Main Path    
   
