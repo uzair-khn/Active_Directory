@@ -19,7 +19,7 @@ I would like to inform you that our homelab will be undergoing a division into f
         Version to : Other Windows 64 bit, <br/>
         Network to : Add another adopter with defualt and change to internal network, & <br/>
         Choose Windows 10 standard (User Desktop Experience) & Custom Setting, when installing it. <br/>
-        ***Its time for a coffee break ☕️***
+        ***Its time for a coffee break ☕️*** 
         
   
   
