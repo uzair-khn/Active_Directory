@@ -62,6 +62,18 @@ Active Directory is a directory service developed by Microsoft for managing and 
    - ### ***Adding NAT to connect to Internet*** <br/>
       Choose next until select service : Choose Remote Access -> Next -> Routing and then Finish. <br/>
       Wait for few minutes until its done and close the windows. <br/>
+      
+      You will see Tools option at top right corner click it & Routing & Remote Access. <br/>
+      ➡️🖱️ Domain (local) & select Configure & Enable Routing <br/>
+            Choose NAT option -> then, choose public interface option and Finish.
+            <br/>Green color appears.
+            
+   - ### ***Adding DHCP Service*** <br/>
+     Choose next until select service : Choose DHCP Server then Finish. <br/>
+     Wait for few minutes until its done and close the windows. <br/>
+
+            
+
               
       
       
