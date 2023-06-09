@@ -8,11 +8,10 @@ Active Directory is a directory service developed by Microsoft for managing and 
 
 <img src="https://github.com/uzair-khn/Active_Directory/blob/main/p3.PNG" width="1000px" height="350px">
 
-I would like to inform you that our homelab will be undergoing a division into four distinct steps.
-
 ## Step-by-Step Guide
 
 ### 🌐 Installing & Configuring the virtual environment for both Windows Server 2019 & Windows 10
+***
 - Install virtual box and ISOs for given links: 
   - VirtualBox : <a> https://www.virtualbox.org/wiki/Downloads </a>
   - Windows Server 2019 💿 : <a> http://www.microsoft.com/en-us/evalcenter/download-windows-server-2019 </a>
@@ -26,6 +25,7 @@ I would like to inform you that our homelab will be undergoing a division into f
         ***Its time for a coffee break ☕️*** 
         
 ### ⚙️ Configuring Windows Server 2019
+***
 - Open Windows Server 2019, and it seeems to be flow over the brain but it is not, believe me.
   - Open the the network connection window, and change the Ethernet names for ease like: <br/>
     Path: Ethernet -> Properties -> Details <br/>
@@ -38,7 +38,7 @@ I would like to inform you that our homelab will be undergoing a division into f
     Now change the Server name to your choice but remember it. <br/> Path will be Settings -> About -> Rename this PC
 - Now, its time to add services on the Windows Server. 🔥 <br/>
  🎯 **Central/Main Path** --- Server Manager -> Add Roles & Features 
-   - ***Adding Active Directory Domain Service*** <br/><br/>
+   - ### ***Adding Active Directory Domain Service*** <br/> 
       Choose next until select service : Choose Active Directory Domain Service and then Finish. <br/>
       Wait for few minutes until its done and close the windows. <br/>
       
@@ -56,10 +56,10 @@ I would like to inform you that our homelab will be undergoing a division into f
                       Fill the blank portion with: Domain Admins <br/>
       Log out and sign as other user that you created as Domain Admin..... <br/> <br/>
                    
-      ***& its done. Heyooo, its complicated right. 🎉 <br/>
+      ***& its done. Heyooo, its complicated right.***🎉 <br/>
               ***Its time for a snack break 🥤🍿*** 
 
-   - ***Adding NAT to connect to Internet*** <br/><br/>
+   - ### ***Adding NAT to connect to Internet*** <br/>
       Choose next until select service : Choose Remote Access -> Next -> Routing and then Finish. <br/>
       Wait for few minutes until its done and close the windows. <br/>
               
