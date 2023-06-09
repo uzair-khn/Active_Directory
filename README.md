@@ -56,8 +56,10 @@ I would like to inform you that our homelab will be undergoing a division into f
                       Fill the blank portion with: Domain Admins <br/>
       Log out and sign as other user that you created as Domain Admin..... <br/> <br/>
                    
-      ***& its done. Heyooo, its complicated right. 🎉
- 
+      ***& its done. Heyooo, its complicated right. 🎉 <br/>
+              ***Its time for a snack break 🥤🍿*** 
+
+
               
       
       
