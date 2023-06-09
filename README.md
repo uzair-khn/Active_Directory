@@ -81,7 +81,9 @@ Active Directory is a directory service developed by Microsoft for managing and 
      -------------- Length   : 24 <br/>
      -------------- Mask     : 255.255.255.0 <br/>
      -------------- Go until when add router IP : 172.16.0.1 (our DNS IP) and ADD <br/>
-     -------------- Finish & Refresh <br/>
+     -------------- Finish & Refresh <br/><br/>
+     <Extra : Click to Local Server Configuration -> IE Enhance Security Configuration to OFF> <br/>
+     
      
           
 
