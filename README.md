@@ -63,7 +63,7 @@ Active Directory is a directory service developed by Microsoft for managing and 
       Choose next until select service : Choose Remote Access -> Next -> Routing and then Finish. <br/>
       Wait for few minutes until its done and close the windows. <br/>
       
-      You will see Tools option at top right corner click it & Routing & Remote Access. <br/>
+      You will see Tools option at top right corner, click Routing & Remote Access. <br/>
       ➡️🖱️ Domain (local) & select Configure & Enable Routing <br/>
             Choose NAT option -> then, choose public interface option and Finish.
             <br/>Green color appears.
@@ -72,7 +72,18 @@ Active Directory is a directory service developed by Microsoft for managing and 
      Choose next until select service : Choose DHCP Server then Finish. <br/>
      Wait for few minutes until its done and close the windows. <br/>
 
-            
+     You will see Tools option at top right corner, click DHCP . <br/>
+     Drop down your domain name, then IPv4<br/>
+     ➡️🖱️ IPv4 & select New Scope <br/>
+     -------- Now, fill name and fill up fields: <br/>
+     -------------- Start IP : 172.16.0.100 <br/>
+     -------------- End IP   : 172.16.0.200 <br/>
+     -------------- Length   : 24 <br/>
+     -------------- Mask     : 255.255.255.0 <br/>
+     -------------- Go until when add router IP : 172.16.0.1 (our DNS IP) and ADD <br/>
+     -------------- Finish & Refresh <br/>
+     
+          
 
               
       
