@@ -59,7 +59,9 @@ I would like to inform you that our homelab will be undergoing a division into f
       ***& its done. Heyooo, its complicated right. 🎉 <br/>
               ***Its time for a snack break 🥤🍿*** 
 
-
+   - ***Adding NAT to connect to Internet*** <br/><br/>
+      Choose next until select service : Choose Remote Access -> Next -> Routing and then Finish. <br/>
+      Wait for few minutes until its done and close the windows. <br/>
               
       
       
