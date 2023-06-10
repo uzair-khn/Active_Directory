@@ -37,7 +37,7 @@ Active Directory is a directory service developed by Microsoft for managing and 
     
     Now change the Server name to your choice but remember it. <br/> Path will be Settings -> About -> Rename this PC
 - Now, its time to add services on the Windows Server. 🔥 <br/>
- 🎯 **Central/Main Path** --- Server Manager -> Add Roles & Features 
+ 🎯 **Central/Main Path** --- Server Manager -> Add Roles & Features <br/>
    - ### ***Adding Active Directory Domain Service*** <br/> 
       Choose next until select service : Choose Active Directory Domain Service and then Finish. <br/>
       Wait for few minutes until its done and close the windows. <br/>
