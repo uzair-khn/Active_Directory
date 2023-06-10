@@ -101,3 +101,9 @@ Active Directory is a directory service developed by Microsoft for managing and 
         Choose Windows 10 PRO & Custom Setting, when installing it. <br/>
         ***Its time for a coffee break ☕️*** 
   
+### ⚙️ Configuring Windows Server 2019
+***
+Check for these things in Client PC:-
+   - ipconfig (should be in scope)
+   - try to ping
+   - 
