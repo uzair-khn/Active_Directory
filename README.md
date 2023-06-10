@@ -103,7 +103,22 @@ Active Directory is a directory service developed by Microsoft for managing and 
   
 ### ⚙️ Configuring Windows Server 2019
 ***
-Check for these things in Client PC:-
-   - ipconfig (should be in scope)
-   - try to ping
-   - 
+- Check for these things in Client PC:-
+    - ipconfig (should be in scope)
+    - try to ping
+  
+- Connect the Client PC to the Domain you created
+  <br/>Path:- System -> About -> Rename this PC (Advanced) -> Change <br/> 
+  - Name the PC, <br/>
+  - Check the option with domain and write tour domain such as mydomain.com <br/>
+  - Username & Password you created in the domain server <br/>
+  - Finish <br/>
+  
+                                  ********* TO CONFIRM, GO TO DOMAIN SERVER & CHECK ADDRESS LEASES ********
+  
+- Login as other user with username and password and it will be done. 
+  
+  
+  
+## THE END
+
