@@ -26,7 +26,7 @@ Active Directory is a directory service developed by Microsoft for managing and 
         
 ### ⚙️ Configuring Windows Server 2019
 ***
-- Open Windows Server 2019, and it seeems to be flow over the brain but it is not, believe me.
+- Open Windows Server 2019, and it seeems to be flow over the brain but it is not, believe me. <br/>
   - Open the the network connection window, and change the Ethernet names for ease like: <br/>
     Path: Ethernet -> Properties -> Details <br/>
     Ethernet having home ip address like 10.?.?.? or 192.?.?.?     -->  Rename it to "Internet" <br/>
@@ -36,7 +36,7 @@ Active Directory is a directory service developed by Microsoft for managing and 
     For Internal -- <br/> Change IP to **172.16.0.1**, mask to **255.255.255.0** & DNS to **127.0.0.1"** (loopback as this server act as DNS also).
     
     Now change the Server name to your choice but remember it. <br/> Path will be Settings -> About -> Rename this PC
-- Now, its time to add services on the Windows Server. 🔥 <br/>
+- Now, its time to add services on the Windows Server. 🔥 <br/><br/>
  🎯 **Central/Main Path** --- Server Manager -> Add Roles & Features <br/>
    - ### ***Adding Active Directory Domain Service*** <br/> 
       Choose next until select service : Choose Active Directory Domain Service and then Finish. <br/>
@@ -55,9 +55,6 @@ Active Directory is a directory service developed by Microsoft for managing and 
               ➡️🖱️ Admin Name & select Properties -> Members Of -> Add <br/>
                       Fill the blank portion with: Domain Admins <br/>
       Log out and sign as other user that you created as Domain Admin..... <br/> <br/>
-                   
-      ***& its done. Heyooo, its complicated right.***🎉 <br/>
-              ***Its time for a snack break 🥤🍿*** 
 
    - ### ***Adding NAT to connect to Internet*** <br/>
       Choose next until select service : Choose Remote Access -> Next -> Routing and then Finish. <br/>
@@ -83,9 +80,16 @@ Active Directory is a directory service developed by Microsoft for managing and 
      -------------- Go until when add router IP : 172.16.0.1 (our DNS IP) and ADD <br/>
      -------------- Finish & Refresh <br/><br/>
      <Extra : Click to Local Server Configuration -> IE Enhance Security Configuration to OFF> <br/>
-     
-     
-          
+    
+      ***& its done. Heyooo, its complicated right.***🎉 <br/>
+              ***Its time for a snack break 🥤🍿*** 
+  
+- Furthermore, we should add some users. <br/><br/>
+     Path --- Windows Start -> Active Directory -> Add Users & Computers <br/>
+          --- ➡️🖱️ Domain Name & select New -> Organizational Unit <br/>
+                 Name this as USERS <br/><br/>
+  
+  
 
               
       
