@@ -80,9 +80,6 @@ Active Directory is a directory service developed by Microsoft for managing and 
      -------------- Go until when add router IP : 172.16.0.1 (our DNS IP) and ADD <br/>
      -------------- Finish & Refresh <br/><br/>
      <Extra : Click to Local Server Configuration -> IE Enhance Security Configuration to OFF> <br/>
-    
-      ***& its done. Heyooo, its complicated right.***🎉 <br/>
-              ***Its time for a snack break 🥤🍿*** 
   
 - Furthermore, we should add some users. <br/><br/>
      Path --- Windows Start -> Active Directory -> Add Users & Computers <br/>
@@ -90,11 +87,9 @@ Active Directory is a directory service developed by Microsoft for managing and 
                  Name this as USERS <br/><br/>
           --- ➡️🖱️ USERS & select New -> Users <br/> 
                  Fill it as you want but uncheck 1 option & check 3 option. <br/><br/>
-  
-
-              
       
-      
+                                                & its done. Heyooo, its complicated right.🎉
+                                                        Its time for a snack break 🥤🍿 
       
       
       
