@@ -94,4 +94,10 @@ Active Directory is a directory service developed by Microsoft for managing and 
       
 ### 🌐 Installing & Configuring the virtual environment for Windows 10
 ***
+- Setting Up the Virtual Environment
+  -  This is for Windows 10, all the things by defualt. Just change : <br/>
+        Version to : Windows 64-bit, <br/>
+        Network to : Change to internal network (to get IP from DHCP), & <br/>
+        Choose Windows 10 PRO & Custom Setting, when installing it. <br/>
+        ***Its time for a coffee break ☕️*** 
   
