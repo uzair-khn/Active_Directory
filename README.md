@@ -88,8 +88,8 @@ Active Directory is a directory service developed by Microsoft for managing and 
           --- ➡️🖱️ USERS & select New -> Users <br/> 
                  Fill it as you want but uncheck 1 option & check 3 option. <br/><br/>
       
-                                                & its done. Heyooo, its complicated right.🎉
-                                                        Its time for a snack break 🥤🍿 
+                             & its done. Heyooo, its complicated right.🎉
+                                    Its time for a snack break 🥤🍿 
       
       
 ### 🌐 Installing & Configuring the virtual environment for Windows 10
